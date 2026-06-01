@@ -1,4 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ali Imran 👋🎮
+
+🎯 Unity Game Developer | C# | C++ | 3D Games
+
+## About Me
+- 🎓 BSIT Student at MAO College, Lahore (5th Semester)
+- 🕹️ 10+ months of hands-on Game Development experience
+- 🏫 Certified from Frag Games — Game Development Course
+- 🔫 Currently building a 3D Third Person Shooter (60% complete)
+- 📍 Lahore, Pakistan
+
+## Skills
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender)
+
+## Projects
+| Game | Engine | Description |
+|------|--------|-------------|
+| 3rd Person Shooter | Unity 3D | In Progress — 60% complete |
+| Super Pang | Unity 3D | Ball enemies, UI, animations |
+| Defender | Unity 3D | Tower defense, wave system |
+| Dodge Block | Unity 3D | Dodge & survive, slow-mo |
+| Knife Hit | Unity 2D | Target mechanics, scoring |
+
+## Contact
+📧 alirajput10144101@gmail.com
+
+
 
 <!--
 **alirajput1014/alirajput1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
