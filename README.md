@@ -5,7 +5,7 @@
 ## About Me
 - 🎓 BSIT Student at Punjab University, Lahore (6th Semester)
 - 🕹️ 10+ months of hands-on Game Development experience
-- 🏫 Certified from Frag Games — Game Development Course
+- 🏫 Certified from Game Train — Game Development Course
 - 🔫 Currently building a 3D Third Person Shooter (60% complete)
 - 📍 Lahore, Pakistan
 
