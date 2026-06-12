@@ -11,7 +11,7 @@
 - 🎓 BSIT Student — University of Punjab, Lahore (6th Semester)
 - 🕹️ 10+ months of hands-on Unity Game Development experience
 - 🏅 Game Development Training Certificate — Game Train
-- 🔫 Currently building a **3rd Person Shooter** with Enemy AI, NavMesh, and combat systems
+- 🔫 Currently building a **3rd Person Shooter**
 - 📍 Lahore, Pakistan · Open to internships & entry-level roles
 
 ---
